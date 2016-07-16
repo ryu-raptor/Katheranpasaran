@@ -7,8 +7,16 @@ public:
 	Object(void);
 };
 
+class DataCtrl : Object
+{
+};
+
 class Scalar : Object
 {
+private:
+	DataElememnt Data;
+public:
+	Scalar(void);
 };
 
 class Matrix : Object
