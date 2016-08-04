@@ -1,0 +1,13 @@
+## 1. Variables
+Default variable types:
+real : real numbers
+int : integer numbers
+string : string datas
+
+## 2. Structures
+We have 5 data structures:
+scalar : scalar structure
+vector : vector structure
+matrix : matrix structure
+set    : data set
+bag    : data bag
